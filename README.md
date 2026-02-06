@@ -14,7 +14,7 @@ With a strong foundation in mathematics and statistical analysis, these projects
 
 ---
 
-## 📊 Projects
+## Projects
 
 ### 1. Transforming New-Wheels Sales and Customer Satisfaction (SQL)
 
@@ -43,7 +43,7 @@ Created DAX measures, applied data modeling techniques, and enhanced reporting w
 
 ---
 
-## 🛠 Skills
+## Skills
 
 - **Tools & Technologies:** Microsoft Excel (PivotTables, VLOOKUP/XLOOKUP), SQL, Power BI (DAX, Power Query), Python
 - **Data Analysis Skills:** Data cleaning, data modeling, data visualization, dashboard creation, trend analysis, reporting
@@ -52,7 +52,7 @@ Created DAX measures, applied data modeling techniques, and enhanced reporting w
 
 ---
 
-## 📬 Contact
+## Contact
 
 - LinkedIn: www.linkedin.com/in/javeria-siddiq  
 - Email: jsiddiq2016@gmail.com  
