@@ -1,7 +1,4 @@
-# data-analytics-portfolio
-Portfolio of data analytics projects: SQL, Python, Power BI
-
-By Javeria Siddiq
+# Data Analytics Portfolio - Javeria Siddiq
 
 Welcome! This portfolio showcases data analytics projects completed using **SQL, Python, and Power BI**.  
 With a strong foundation in mathematics and statistical analysis, these projects demonstrate skills in:
