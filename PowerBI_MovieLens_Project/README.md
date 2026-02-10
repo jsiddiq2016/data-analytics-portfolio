@@ -1,3 +1,16 @@
 # Power BI Project – MovieLens Dashboard Analysis
 
-Interactive Power BI dashboard project analyzing movie trends, genre popularity, and user demographics using DAX and data modeling.
+This project analyzes the MovieLens dataset (1900–2000) using Power BI to explore:
+
+- Genre popularity and movie distribution  
+- User demographics (age, gender, occupation)  
+- Rating patterns over time  
+- Top-rated movies and genres  
+
+## Dashboard Pages
+
+### Home Page – Overview KPIs and Genre Insights
+
+### Page 2 – Top Rated Movies and Rating Trends
+
+### Page 3 – User Demographics and Geographic Distribution
