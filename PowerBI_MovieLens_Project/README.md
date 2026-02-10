@@ -11,6 +11,6 @@ This project analyzes the MovieLens dataset (1900–2000) using Power BI to expl
 
 ### Home Page – Overview KPIs and Genre Insights
 
-### Page 2 – Top Rated Movies and Rating Trends
+### Second Page – Top Rated Movies and Rating Trends
 
-### Page 3 – User Demographics and Geographic Distribution
+### Third Page – User Demographics and Geographic Distribution
