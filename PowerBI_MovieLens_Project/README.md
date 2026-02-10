@@ -10,7 +10,6 @@ This project analyzes the MovieLens dataset (1900–2000) using Power BI to expl
 ## Dashboard Pages
 
 ### Home Page – Overview KPIs and Genre Insights
-![Home Dashboard](Home Page Dashboard.png)
 
 ### Second Page – Top Rated Movies and Rating Trends
 
