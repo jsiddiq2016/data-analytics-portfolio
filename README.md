@@ -52,7 +52,6 @@ Created DAX measures, applied data modeling techniques, and enhanced reporting w
 ## Contact
 
 - LinkedIn: www.linkedin.com/in/javeria-siddiq  
-- Email: jsiddiq2016@gmail.com  
 
 ---
 
